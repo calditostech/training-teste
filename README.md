@@ -12,7 +12,7 @@ Uma aplicação Laravel para gerenciar treinamentos corporativos.
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone git@github.com:calditostech/training-teste.git
 
 2. Navegue até o diretório do projeto:
 bash
@@ -61,4 +61,4 @@ Copiar código
 npm run dev
 
 - **Imagem da Aplicação**:
-  - Adicionei a linha `![App Screenshot](public/images/training.png)` 
+<img src="/public/assets/img/training.png">
