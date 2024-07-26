@@ -8,6 +8,10 @@ Uma aplicação Laravel para gerenciar treinamentos corporativos.
 - Composer
 - Node.js e npm
 
+# Tecnologias de desenvolvimento
+-Laravel 11 - back-end
+-Inertia Vue.js - front-end
+
 ## Configuração do Projeto
 
 1. Clone o repositório:
@@ -53,7 +57,7 @@ docker-compose up -d
 7. Execute as migrações:
 bash
 Copiar código
-docker-compose exec app php artisan migrate
+docker-compose exec laravel.test.trainnig bash 
 
 8. Compile os assets do front-end:
 bash
